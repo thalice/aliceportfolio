@@ -1,0 +1,50 @@
+#bodyAboutMe {
+    margin-top: 100px;
+}
+
+#columnCv {
+    display: flex;
+    justify-content: center;
+}
+
+#cv {
+    width: 40%;
+    height: auto;
+    align-items: center;
+    border-radius: 5%;
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+
+#list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#expert {
+    background-color: yellow;
+    color: black;
+    border-radius: 2%;
+}
+
+#metho {
+    background-color: yellow;
+    color: black;
+}
+
+#outil {
+    background-color: yellow;
+    color: black;
+}
+#soft {
+    background-color: yellow;
+    color: black;
+}
+#fontChange {
+    font-family: 'Waiting for the Sunrise', cursive;
+    font-size: 2em;
+}

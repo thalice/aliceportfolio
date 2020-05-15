@@ -1,0 +1,94 @@
+#jeffLogo {
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+#jeffBody {
+    position: relative;
+    border: 4px solid black;
+    width: 90%;
+    padding: 40px;
+}
+#alignLogoBrand {
+    display: flex;
+    flex-direction: row;
+}
+#titreCentre {
+    text-align: center;
+}
+.open {
+    cursor: pointer;
+}
+.close {
+    position: absolute;
+    color: red;
+    font-size: xx-large;
+    top: 0;
+    right: 0;
+    padding: 20px;
+    cursor: pointer;
+}
+.titre2 {
+    color: rgb(34, 116, 107);
+    padding-top: 20px;
+}
+.titre3 {
+    margin-top: 10px;
+    color: rgb(121, 46, 46);
+}
+.titre4 {
+    color: turquoise;
+    padding-top: 20px;
+}
+
+.proto {
+    color: blue;
+}
+#cpn {
+    width: 50%;
+    height: auto;
+}
+#parcours {
+    width: 50%;
+    height: auto;
+    margin-bottom: 50px;
+}
+#croquis {
+    width: 50%;
+    height: auto;
+    padding-bottom: 10px;
+}
+#itw {
+    width: 50%;
+    height: auto;
+    padding-top: 10px;
+}
+
+#matrice {
+    width: 50%;
+    height: auto;
+}
+
+#projet {
+    display: flex;
+    flex-direction: row;
+}
+
+.projet-contexte {
+    border: 2px solid brown;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+.setupColumn {
+    display: flex;
+    flex-direction: row;
+}
+
+.adjust50 {
+    width: 50%;
+    height: auto;
+    padding: 10px;
+}

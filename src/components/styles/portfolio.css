@@ -1,0 +1,33 @@
+#portfolioBody {
+    background-color: white;
+    color: black;
+    margin-right: 20%;
+    margin-left: 20%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+#logo {
+    height: 70px;
+    width: 70px;
+}
+
+#jeffPadding {
+    padding-bottom: 40px;
+}
+
+.titre1 {
+    border: 3px solid yellow;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    border-radius: 20%;
+    font-family: 'Waiting for the Sunrise', cursive;
+    font-size: 2.5em;
+}
+
+.alignProject {
+    display: flex;
+    flex-direction: column;
+}
